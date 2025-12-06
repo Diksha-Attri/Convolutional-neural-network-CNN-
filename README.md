@@ -1,4 +1,4 @@
-# Diksha vs Poornima — CNN From Scratch (PyTorch)
+# Kiran vs Malhar — CNN From Scratch (PyTorch)
 
 This project trains a small but strong CNN **from scratch** (no pretrained backbone) to classify two classes: **Diksha** and **poornima**.
 
